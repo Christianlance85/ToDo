@@ -29,8 +29,8 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ## To do
 
-Individual Input Field should be componentized
-We need more unit test coverage
-To Do Items should be a standard, yet responsive width
-The form containing multiple input should be componentized
-Bug on Looking for incomplete To Do's
+Individual Input Field should be componentized:
+We need more unit test coverage:
+To Do Items should be a standard, yet responsive width:
+The form containing multiple input should be componentized:
+Bug on Looking for incomplete To Do's:
